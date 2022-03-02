@@ -1,11 +1,5 @@
-<a href= "https://pelumi-codes.github.io/React-Adventure-site/">Code Link</a>
-# Getting Started with Create React App
+<a href= "https://react-adventure-site-7wpwz6kmj-pelumi-codes.vercel.app">Code Link</a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `yarn start`
 
